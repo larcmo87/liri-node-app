@@ -1,0 +1,122 @@
+**my-tweets**
+Tweet: Using node js with command line is boring! :)
+Date Tweeted: Thu Aug 24 23:37:30 +0000 2017
+**********************
+Tweet: just another day
+Date Tweeted: Thu Aug 24 23:36:54 +0000 2017
+**********************
+Tweet: Hello World!
+Date Tweeted: Wed Aug 23 23:41:42 +0000 2017
+**********************
+Tweet: Just testing tweet api
+Date Tweeted: Wed Aug 23 22:33:43 +0000 2017
+**********************
+**movie-this**
+Movie Title: Star Wars: Episode IV - A New Hope
+Release Year: 1977
+IMDB Rating: 8.7
+Rotten Tomatoes Rating: Rotten Tomatoes Rating: 93%
+Produced in: USA
+Language: English
+Plot: Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee, and two droids to save the galaxy from the Empire's world-destroying battle-station, while also attempting to rescue Princess Leia from the evil Darth Vader.
+Cast: Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing
+**********************
+**spotify-this-song**
+Movie not found! Check spelling to see if title was mis-spelled
+**spotify-this-song**
+Movie not found! Check spelling to see if title was mis-spelled
+************************my-tweets**
+Tweet: Using node js with command line is boring! :)
+Date Tweeted: Thu Aug 24 23:37:30 +0000 2017
+**********************
+Tweet: Hello World!
+Date Tweeted: Wed Aug 23 23:41:42 +0000 2017
+**********************
+Tweet: just another day
+Date Tweeted: Thu Aug 24 23:36:54 +0000 2017
+**********************
+Tweet: Just testing tweet api
+Date Tweeted: Wed Aug 23 22:33:43 +0000 2017
+**********************
+**spotify-this-song**
+Artist: Ace of Base
+Song: The Sign
+Song Preview: https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=f0927e225e2740d0af1c3ab41e963567
+**********************
+Artist: Ace of Base
+Song: The Sign
+Song Preview: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=f0927e225e2740d0af1c3ab41e963567
+**********************
+Artist: Ace of Base
+Song: All That She Wants
+Song Preview: https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=f0927e225e2740d0af1c3ab41e963567
+**********************
+Artist: The Barden Bellas
+Song: Bellas Regionals: The Sign/Eternal Flame/Turn The Beat Around
+Song Preview: No Preview Available
+**********************
+Artist: Ace of Base
+Song: Don't Turn Around
+Song Preview: https://p.scdn.co/mp3-preview/9c8401c8142bdd011e51f0211be2e2d4afcd5cff?cid=f0927e225e2740d0af1c3ab41e963567
+**********************
+**my-tweets**
+Tweet: tweet 21
+Date Tweeted: Sat Aug 26 21:13:32 +0000 2017
+**********************
+Tweet: and tweet 22 for good measure. :)
+Date Tweeted: Sat Aug 26 21:13:51 +0000 2017
+**********************
+Tweet: and tweet 20
+Date Tweeted: Sat Aug 26 21:13:23 +0000 2017
+**********************
+Tweet: tweet 19
+Date Tweeted: Sat Aug 26 21:13:13 +0000 2017
+**********************
+Tweet: tweet 18
+Date Tweeted: Sat Aug 26 21:13:03 +0000 2017
+**********************
+Tweet: tweet 17
+Date Tweeted: Sat Aug 26 21:12:55 +0000 2017
+**********************
+Tweet: tweet 16
+Date Tweeted: Sat Aug 26 21:12:50 +0000 2017
+**********************
+Tweet: tweet 15
+Date Tweeted: Sat Aug 26 21:12:39 +0000 2017
+**********************
+Tweet: tweet 14
+Date Tweeted: Sat Aug 26 21:12:32 +0000 2017
+**********************
+Tweet: tweet 13
+Date Tweeted: Sat Aug 26 21:12:27 +0000 2017
+**********************
+Tweet: tweet 12
+Date Tweeted: Sat Aug 26 21:12:14 +0000 2017
+**********************
+Tweet: tweet 11
+Date Tweeted: Sat Aug 26 21:12:07 +0000 2017
+**********************
+Tweet: Only 10 more to go
+Date Tweeted: Sat Aug 26 21:11:56 +0000 2017
+**********************
+Tweet: Do we really need 20 tweets? LOL
+Date Tweeted: Sat Aug 26 21:10:52 +0000 2017
+**********************
+Tweet: Oh yeah, 11 more!
+Date Tweeted: Sat Aug 26 21:10:37 +0000 2017
+**********************
+Tweet: How many more tweets do I need?
+Date Tweeted: Sat Aug 26 21:10:16 +0000 2017
+**********************
+Tweet: Wasabi?
+Date Tweeted: Sat Aug 26 21:10:02 +0000 2017
+**********************
+Tweet: Utah coding bootcamp rocks!
+Date Tweeted: Sat Aug 26 21:09:50 +0000 2017
+**********************
+Tweet: Class was interesting today
+Date Tweeted: Sat Aug 26 21:08:38 +0000 2017
+**********************
+Tweet: Using node js with command line is boring! :)
+Date Tweeted: Thu Aug 24 23:37:30 +0000 2017
+**********************
